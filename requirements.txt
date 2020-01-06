@@ -5,3 +5,13 @@ six
 allure-behave
 browserstack-local
 webdriver_manager
+
+allure-behave
+allure-python-commons
+browserstack-local
+nose
+pip
+psutil
+requests
+urllib3
+webdriver-manager
