@@ -42,7 +42,7 @@ pip install name_of_the_dependency
 #### [Step definitions](features/steps)
 * It has two step definition files
 * [API stepsDefs](features/steps/api_test_stepDefs.py) is related to [API Test](features/api_tests.feature).
-* [UI stepDefs](features/steps/ui_test_stepDefs.py)is related to [UI Test](features/ui_test.feature)
+* [UI stepDefs](features/steps/ui_test_stepDefs.py) is related to [UI Test](features/ui_test.feature)
 
 #### [Utils](utils): 
 * In this folder there are two class, they are the supporting class for the project.
