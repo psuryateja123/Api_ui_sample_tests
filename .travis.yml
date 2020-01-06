@@ -1,0 +1,12 @@
+language: python
+python:
+  - "3.6"
+# command to install dependencies
+install:
+  - pip install -r requirements.txt
+# command to run tests
+api_test:
+  - behave --tags="@api_test"
+
+ui_test:
+  -behave --tags="@ui_test"
