@@ -1,3 +1,5 @@
+@ui_test
+
 
   Feature:  Navigating to test page and checking for UI elements
 

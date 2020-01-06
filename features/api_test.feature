@@ -1,4 +1,4 @@
-@smoke
+@api_test
 
 Feature: checking the api status
 
